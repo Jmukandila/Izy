@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e0ea13e-0501-479f-bd05-d61b898b8202" name="Changes" comment="" />
+    <list default="true" id="9e0ea13e-0501-479f-bd05-d61b898b8202" name="Changes" comment="fix home page" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +35,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -54,11 +55,32 @@
       <option name="presentableId" value="Default" />
       <updated>1703755416055</updated>
       <workItem from="1703755420949" duration="82000" />
-      <workItem from="1703755521431" duration="418000" />
+      <workItem from="1703755521431" duration="725000" />
     </task>
+    <task id="LOCAL-00001" summary="fix home page">
+      <option name="closed" value="true" />
+      <created>1703755965233</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703755965233</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix home page">
+      <option name="closed" value="true" />
+      <created>1703756207229</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703756207229</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix home page" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix home page" />
   </component>
 </project>
