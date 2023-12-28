@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e0ea13e-0501-479f-bd05-d61b898b8202" name="Changes" comment="fix home page" />
+    <list default="true" id="9e0ea13e-0501-479f-bd05-d61b898b8202" name="Changes" comment="key" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1703755416055</updated>
       <workItem from="1703755420949" duration="82000" />
-      <workItem from="1703755521431" duration="725000" />
+      <workItem from="1703755521431" duration="1087000" />
     </task>
     <task id="LOCAL-00001" summary="fix home page">
       <option name="closed" value="true" />
@@ -73,7 +73,23 @@
       <option name="project" value="LOCAL" />
       <updated>1703756207229</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="key">
+      <option name="closed" value="true" />
+      <created>1703756344657</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703756344657</updated>
+    </task>
+    <task id="LOCAL-00004" summary="key">
+      <option name="closed" value="true" />
+      <created>1703756467996</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703756467996</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +97,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix home page" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix home page" />
+    <MESSAGE value="key" />
+    <option name="LAST_COMMIT_MESSAGE" value="key" />
   </component>
 </project>
